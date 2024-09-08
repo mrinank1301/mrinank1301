@@ -1,4 +1,4 @@
- <img src="https://media.licdn.com/dms/image/v2/D4D16AQHGtSPRtWdhnA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725797814654?e=1731542400&v=beta&t=pJZR3RL1oEn45MevxRHl6GCVoTOTLL3-8PRAcp50uHw" alt="">
+<img src="https://i.imghippo.com/files/YLM7K1725800012.png">
 <h1 align="center">Hi 👋, I'm Mrinank Kavuri</h1>
 <h3 align="center">Machine Learning Engineer | Front-end developer | UI/UX designer</h3>
 
