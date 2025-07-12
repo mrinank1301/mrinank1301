@@ -1,8 +1,8 @@
 <img src="https://i.imghippo.com/files/YLM7K1725800012.png">
 <h1 align="center">Hi 👋, I'm Mrinank Kavuri</h1>
-<h3 align="center">Machine Learning Engineer | Front-end developer | UI/UX designer</h3>
+<h3 align="center">Machine Learning Engineer | Full Stack web developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 📫 How to reach me **mrinank1318@gmail.com**
 
